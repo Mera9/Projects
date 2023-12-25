@@ -93,3 +93,4 @@ def game_loop():
 
 game_loop()
 
+# Press "run" in the PyCharm, to play the Snake game.
